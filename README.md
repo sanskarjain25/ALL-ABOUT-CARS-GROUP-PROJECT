@@ -3,4 +3,4 @@
 
  [ALL ABOUT CARS](https://raw.githack.com/sanskarjain25/ALL-PROJECT-CAR-Project/main/homepage.html)
  
- A website provinding information on different car brands available in India, designed using HTML, CSS and BOOTSTRAP.
+ A group project website ( with https://github.com/sweekriti121 ) provinding information on different car brands available in India, designed using HTML, CSS and BOOTSTRAP.
